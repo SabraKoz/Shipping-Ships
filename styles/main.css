@@ -1,0 +1,62 @@
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 20px;
+    font-weight: bold;
+	line-height: 1.5;
+    background: #5ac7ea;
+}
+
+h1,h2 {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.lists {
+    padding: 20px;
+}
+
+.ships {
+    border: 3px dotted white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.haulers {
+    border: 3px dotted white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.docks {
+    border: 3px dotted white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.dockItem {
+    margin: 10px;
+    padding: 10px;
+    background: white;
+}
+
+.haulerItem {
+    margin: 10px;
+    padding: 10px;
+    background: white;
+}
+
+.shipItem {
+    margin: 10px;
+    padding: 10px;
+    background: white;
+}
+
+ul {
+    list-style: none;
+}
